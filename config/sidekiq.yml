@@ -1,0 +1,10 @@
+:queues:
+  - newqueue
+  - default
+
+scheduler:
+  schedule:
+    dailydatafetch:
+      cron: '0 2 * * *'
+      class: DailyDataFetch
+      queue: newqueue

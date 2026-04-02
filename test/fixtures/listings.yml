@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyString
+  listing_number: 1
+  listing_price: 1
+  hubspot_deal_id: MyString
+  string: MyString
+
+two:
+  title: MyString
+  description: MyString
+  listing_number: 1
+  listing_price: 1
+  hubspot_deal_id: MyString
+  string: MyString
